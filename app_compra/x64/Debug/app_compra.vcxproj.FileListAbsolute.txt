@@ -1,0 +1,6 @@
+C:\Users\Miguel 07\Desktop\proyecto de progra\app_compra\app_compra\x64\Debug\app_compra.vcxproj.AssemblyReference.cache
+C:\Users\Miguel 07\Desktop\proyecto de progra\app_compra\app_compra\x64\Debug\app_compra.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel 07\Desktop\proyecto de progra\app_compra\app_compra\x64\Debug\appcompra.inicio.resources
+C:\Users\Miguel 07\Desktop\proyecto de progra\app_compra\app_compra\x64\Debug\app_compra.vcxproj.GenerateResource.cache
+C:\Users\Miguel 07\Desktop\proyecto de progra\app_compra\app_compra\x64\Debug\appcompra.MyForm.resources
+C:\Users\Miguel 07\Desktop\proyecto de progra\app_compra\app_compra\x64\Debug\appcompra.Compras.resources
